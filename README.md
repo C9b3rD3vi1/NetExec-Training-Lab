@@ -38,3 +38,8 @@ Often times, you'll interact with these using different sets of credentials, eit
 Now you should be able to run
 
     NetExec
+
+
+or more simply:
+
+    nxc
