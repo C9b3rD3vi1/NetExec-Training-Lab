@@ -43,3 +43,5 @@ Now you should be able to run
 or more simply:
 
     nxc
+
+   ![alt Start NetExec](images/nxc.png)
